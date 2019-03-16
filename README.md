@@ -1,2 +1,2 @@
 # JAVA-work
-Java work design
+CS course Java work design
